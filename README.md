@@ -2,7 +2,7 @@
 
 BMN! est un jeu, permettant à des personnes de réaliser des paris météo.
 De un à quatre joueurs, cette application se joue en local multi-player. C'est à dire, tous ensemble devant le même clavier.
-Un peu semblable à un quizz, les joueurs devront sélectionner la réponse qui leur semble être la bonne parmi une liste de réponses oossibles.
+Un peu semblable à un quizz, les joueurs devront sélectionner la réponse qui leur semble être la bonne parmi une liste de réponses possibles.
 
 Techniquement, l'application est structurée en architecture 2-tiers.
 D'un côté un front, gamifié pour les joueurs et connecté à une API.
